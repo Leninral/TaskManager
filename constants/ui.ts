@@ -1,0 +1,10 @@
+export const COLORS = {
+    PRIMARY_BACKGROUND: "#131519",
+    SECONDARY_BACKGROUND: "#363542ff",
+    PRIMARY_TEXT: "#ffff",
+    PRIMARY_ACTIVE_BUTTON: "#005BF0",
+    PRIMARY_RED: "#c83135",
+    SUCCESS: "#18d40eff",
+    PRIMARY_BORDER: "#ffffff",
+    PLACE_HOLDER: "grey"
+}
